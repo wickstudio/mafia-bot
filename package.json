@@ -1,0 +1,26 @@
+{
+  "name": "mafia-bot",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [],
+  "author": {
+    "name": "Wick Studio",
+    "email": "wick@wick-studio.com"
+  },
+  "license": "MIT",
+  "description": "A feature-rich Discord bot that brings the classic Mafia game to your server with role assignments, private mafia chats, and interactive gameplay.",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/wickstudio/mafia-bot.git"
+  },
+  "bugs": {
+    "url": "https://github.com/wickstudio/mafia-bot/issues"
+  },
+  "homepage": "https://github.com/wickstudio/mafia-bot#readme",
+  "dependencies": {
+    "discord.js": "^14.16.2"
+  }
+}

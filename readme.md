@@ -39,7 +39,7 @@
 
 ## 🎥 Demo
 
-Check out our [YouTube Demo](https://www.youtube.com/watch?v=YOUR_DEMO_LINK) to see Wick Mafia in action!
+Check out our [YouTube Demo](https://youtu.be/QINI2qXVpy4) to see Wick Mafia in action!
 
 ---
 
